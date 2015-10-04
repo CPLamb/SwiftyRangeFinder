@@ -27,5 +27,8 @@ class FlipsideViewController: UIViewController {
     // Dispose of any resources that can be recreated.
   }
 
+    @IBAction func selectedUnits(sender: UISegmentedControl) {
+        print("Now we be doin' shtuff!")
+    }
 
 }
