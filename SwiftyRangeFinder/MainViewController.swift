@@ -11,6 +11,7 @@
 /*  This view is used for determining the distance to an object by using the device's camera & zoom effects.  The calculation is based upon 2 zoom factors (digital zoom & CGRect zoom) X the height of a known object (person, stop sign, etc).
 */
 
+// here is a change
 
 import UIKit
 
